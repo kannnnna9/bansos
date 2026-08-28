@@ -1,6 +1,6 @@
 {
 	"generatedAt": "2026-08-17",
-	"total": 104,
+	"total": 105,
 	"items": [
 		{
 			"id": "adobe-creative-cloud-pro-trial",
@@ -589,6 +589,16 @@
 			"featured": false,
 			"publishedAt": "2026-06-12",
 			"contributorSlug": "devers"
+		},
+		{
+			"id": "kktoken-free-75-credit-bonus-referral",
+			"title": "KKtoken AI Free $75 Credit + $25 Bonus Referral",
+			"provider": "KKtoken AI",
+			"status": "active",
+			"tags": ["AI Credits", "API", "AI Tools", "Free Tier", "Developer Tools", "Referral"],
+			"featured": false,
+			"publishedAt": "2026-08-28",
+			"contributorSlug": "syafii-fahreza"
 		},
 		{
 			"id": "lovable-free-pro-plan",
