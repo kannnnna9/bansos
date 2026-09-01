@@ -1,0 +1,29 @@
+{
+	"id": "liminality-free-checkin",
+	"title": "Liminality API - Check-in Harian Gratis dan Akses API OpenAI-Compatible",
+	"provider": "Liminality",
+	"description": "Liminality API (beizhi.sylu.cc) adalah aggregator model berbasis NewAPI yang dikelola personal. Sumber resminya menawarkan check-in harian untuk mendapatkan kredit gratis, bonus undangan dua arah, dan akses melalui format API OpenAI-compatible. Sumber tersebut tidak merinci nominal kredit maupun seluruh model dan harga, sehingga katalog serta ketentuannya perlu dicek langsung dan dapat berubah. Registrasi menggunakan email mainstream (contoh @qq.com), dengan batas frekuensi 15 request per menit; layanan ini tidak cocok untuk agent atau otomasi frekuensi tinggi dan tidak menawarkan SLA produksi.",
+	"benefits": [
+		"Check-in harian untuk mendapatkan kredit gratis tanpa pembayaran",
+		"Bonus undangan dua arah untuk pengundang dan pengguna yang diundang",
+		"Akses model melalui format API yang kompatibel dengan OpenAI",
+		"Registrasi menerima email mainstream, contohnya email @qq.com",
+		"Penggunaan personal ringan dengan batas 15 request per menit dan tanpa SLA produksi"
+	],
+	"validity": {
+		"type": "uncertain",
+		"description": "Notice resmi bertanggal 13 Juli 2026 tidak mencantumkan tanggal penutupan; kredit, limit, katalog model, dan ketentuan dapat berubah sewaktu-waktu"
+	},
+	"requirements": [
+		"Registrasi menggunakan email mainstream yang diterima situs (contoh @qq.com)",
+		"Batas frekuensi 15 request per menit; tidak untuk agent, otomasi, atau tugas frekuensi tinggi",
+		"Layanan dikelola personal tanpa SLA; tidak disarankan untuk produksi"
+	],
+	"ctaLink": "https://beizhi.sylu.cc/sign-up?aff=tmRs",
+	"tags": ["AI Credits", "API", "AI Tools", "Free Tier", "Developer Tools"],
+	"status": "active",
+	"featured": false,
+	"publishedAt": "2026-08-24",
+	"source": "https://beizhi.sylu.cc/api/notice",
+	"contributorSlug": "rafly0078"
+}
