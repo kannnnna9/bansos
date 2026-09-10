@@ -1,5 +1,5 @@
 # bansos.dev — Dataset Lengkap
-> Diperbarui: 2026-09-10 | Total: 108 entri (90 aktif, 18 expired)
+> Diperbarui: 2026-09-10 | Total: 112 entri (94 aktif, 18 expired)
 
 ---
 
@@ -826,6 +826,36 @@
 
 ---
 
+### Google Gemini Paket Mahasiswa 1 Tahun Tanpa Biaya
+
+- **ID:** `google-gemini-student`
+- **Provider:** Google
+- **Kategori:** AI, Cloud Services, Gratisan, Mahasiswa
+- **Status:** active
+
+**Deskripsi:** Google menyediakan paket Google AI Pro gratis selama 1 tahun untuk mahasiswa yang memenuhi syarat. Paket ini mencakup batas penggunaan Gemini hingga 4x lebih tinggi, penyimpanan cloud 5 TB, Gemini Spark, Gemini Omni, Gemini Live, dan fitur belajar dengan upload materi tanpa batas.
+
+**Benefit:**
+- Paket Google AI Pro gratis selama 1 tahun untuk mahasiswa yang memenuhi syarat
+- Batas penggunaan Gemini hingga 4x lebih tinggi
+- Penyimpanan cloud 5 TB
+- Akses Gemini Spark, Gemini Omni, dan Gemini Live
+- Upload materi kuliah tanpa batas serta fitur belajar dan pembuatan video
+
+**Cara Klaim:**
+1. Mahasiswa perguruan tinggi di Amerika Serikat yang memenuhi syarat dan berusia minimal 18 tahun
+2. Lulus verifikasi kelayakan mahasiswa setiap tahun
+3. Menyediakan metode pembayaran yang valid saat pendaftaran
+4. Batalkan sebelum masa uji coba berakhir untuk mencegah tagihan otomatis Rp75.000/bulan (harga dapat berbeda menurut wilayah)
+
+- **CTA Link:** https://gemini.google/students/
+- **Sumber:** https://gemini.google/students/
+- **Berlaku:** fixed — 2026-12-31 (Klaim sebelum 31 Desember 2026; paket gratis berlaku selama 1 tahun)
+
+🔗 **Link Detail:** https://bansos.dev/list/google-gemini-student/
+
+---
+
 ### Program Google for Startups Cloud
 
 - **ID:** `google-startups-cloud`
@@ -1474,6 +1504,35 @@
 - **Berlaku:** uncertain (Domain baru terdaftar 23 Agustus 2026 dan situs belum memuat syarat layanan; ketersediaan serta besaran kredit mengikuti kebijakan KKtoken AI)
 
 🔗 **Link Detail:** https://bansos.dev/list/kktoken-free-75-credit-bonus-referral/
+
+---
+
+### Liminality API - Check-in Harian Gratis dan Akses API OpenAI-Compatible
+
+- **ID:** `liminality-free-checkin`
+- **Provider:** Liminality
+- **Kategori:** AI Credits, API, AI Tools, Free Tier, Developer Tools
+- **Status:** active
+
+**Deskripsi:** Liminality API (beizhi.sylu.cc) adalah aggregator model berbasis NewAPI yang dikelola personal. Sumber resminya menawarkan check-in harian untuk mendapatkan kredit gratis, bonus undangan dua arah, dan akses melalui format API OpenAI-compatible. Sumber tersebut tidak merinci nominal kredit maupun seluruh model dan harga, sehingga katalog serta ketentuannya perlu dicek langsung dan dapat berubah. Registrasi menggunakan email mainstream (contoh @qq.com), dengan batas frekuensi 15 request per menit; layanan ini tidak cocok untuk agent atau otomasi frekuensi tinggi dan tidak menawarkan SLA produksi.
+
+**Benefit:**
+- Check-in harian untuk mendapatkan kredit gratis tanpa pembayaran
+- Bonus undangan dua arah untuk pengundang dan pengguna yang diundang
+- Akses model melalui format API yang kompatibel dengan OpenAI
+- Registrasi menerima email mainstream, contohnya email @qq.com
+- Penggunaan personal ringan dengan batas 15 request per menit dan tanpa SLA produksi
+
+**Cara Klaim:**
+1. Registrasi menggunakan email mainstream yang diterima situs (contoh @qq.com)
+2. Batas frekuensi 15 request per menit; tidak untuk agent, otomasi, atau tugas frekuensi tinggi
+3. Layanan dikelola personal tanpa SLA; tidak disarankan untuk produksi
+
+- **CTA Link:** https://beizhi.sylu.cc/sign-up?aff=tmRs
+- **Sumber:** https://beizhi.sylu.cc/api/notice
+- **Berlaku:** uncertain (Notice resmi bertanggal 13 Juli 2026 tidak mencantumkan tanggal penutupan; kredit, limit, katalog model, dan ketentuan dapat berubah sewaktu-waktu)
+
+🔗 **Link Detail:** https://bansos.dev/list/liminality-free-checkin/
 
 ---
 
@@ -2128,6 +2187,35 @@ Berlaku sampai tanggal 28 Juni 2026
 
 ---
 
+### TokenForge Free Beta - Kredit Promosi dan Akses GLM-5.2 & Grok 4.5
+
+- **ID:** `tokenforge-free-beta`
+- **Provider:** TokenForge
+- **Kategori:** AI Credits, API, AI Tools, Free Tier, Developer Tools
+- **Status:** active
+
+**Deskripsi:** TokenForge adalah gateway AI yang kompatibel dengan OpenAI dan sedang membuka controlled free beta. Halaman resminya menyebut akun baru menerima kredit promosi tanpa checkout atau penagihan aktif. Pricing Explorer saat ini mencantumkan 100 request per hari, 100.000 token per hari, serta akses GLM-5.2 dan Grok 4.5. Namun dokumentasi request admission menyebut platform tidak menerapkan batas harian, per menit, atau konkuren; karena ada perbedaan keterangan resmi, kuota aktual perlu dicek di dashboard sebelum digunakan. Tarif kredit mengikuti rate upstream yang ditautkan ditambah platform charge transparan 3,5 kali.
+
+**Benefit:**
+- Controlled free beta dengan kredit promosi untuk akun baru; tidak ada checkout maupun penagihan aktif
+- Pricing Explorer saat ini mencantumkan 100 request per hari dan 100.000 token per hari; cek dashboard karena dokumentasi resmi juga menyebut tidak ada batas platform
+- Akses model GLM-5.2 dan Grok 4.5 lewat satu endpoint kompatibel OpenAI
+- Katalog model teks yang dipublikasikan di halaman resmi, dengan ketersediaan yang dapat berubah
+- Tarif kredit per rute mengikuti tarif upstream resmi yang ditautkan plus platform charge transparan 3,5 kali
+
+**Cara Klaim:**
+1. Sign-in wajib memakai akun GitHub karena itu satu-satunya metode login
+2. Akun GitHub minimal berumur 14 hari dan memakai alamat email permanen yang sudah terverifikasi
+3. Pricing Explorer mencantumkan 100 request dan 100.000 token per hari, tetapi dokumentasi request admission menyebut tidak ada batas platform; ikuti keterangan dashboard terbaru
+
+- **CTA Link:** https://tokengate-cqt9ivzs.manus.space/sign-up?aff=1rir
+- **Sumber:** https://tokengate-cqt9ivzs.manus.space/pricing
+- **Berlaku:** uncertain (Controlled free beta tanpa tanggal akhir yang diumumkan; halaman pricing dan dokumentasi resmi berbeda dalam menjelaskan batas request, sehingga kuota aktual perlu dikonfirmasi sebelum digunakan)
+
+🔗 **Link Detail:** https://bansos.dev/list/tokenforge-free-beta/
+
+---
+
 ### TokenGO API Inference Free $5 Credits
 
 - **ID:** `tokengo-inference-api`
@@ -2366,6 +2454,28 @@ Berlaku sampai tanggal 28 Juni 2026
 - **Berlaku:** uncertain (Kredit gratis dapat kedaluwarsa kapan saja sesuai kebijakan Vyce AI (Ketentuan Layanan pasal 6))
 
 🔗 **Link Detail:** https://bansos.dev/list/vyce-ai-free-40-credit/
+
+---
+
+### Wasmer Pro 3 Bulan Tanpa Kartu Kredit
+
+- **ID:** `wasmer-pro`
+- **Provider:** Wasmer
+- **Kategori:** Cloud Services, Hosting, Gratisan
+- **Status:** active
+
+**Deskripsi:** Gratis 3 Bulan Wasmer Pro tanpa kartu kredit. Masukkan kode WORDCAMP2026-PHX saat pendaftaran.
+
+**Benefit:**
+- 10 apps,1 Juta request/bulan,1 TB bandwidth,Backup harian + log 30 hari,Support WordPress Node.js Python Rust
+
+**Cara Klaim:**
+1. Gunakan kode promo: WORDCAMP2026-PHX
+
+- **CTA Link:** https://wasmer.io/
+- **Berlaku:** uncertain
+
+🔗 **Link Detail:** https://bansos.dev/list/wasmer-pro/
 
 ---
 
