@@ -578,10 +578,13 @@
 									<div class="commit-list">
 										{#each commitContributors as contributor (contributor.login)}
 											{@const profileSlug = getContributorProfileSlugForGitLogin(contributor.login)}
+											{@const contributorHref = profileSlug
+												? resolve('/[slug]', { slug: profileSlug })
+												: contributor.commitUrl}
 											<a
-												href={resolve('/[slug]', {
-													slug: profileSlug || contributor.login
-												})}
+												href={contributorHref}
+												target={profileSlug ? undefined : '_blank'}
+												rel={profileSlug ? undefined : 'noopener noreferrer'}
 												class="commit-person"
 												title={detailT('commitBy', { login: contributor.login })}
 											>
