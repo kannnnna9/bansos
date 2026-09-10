@@ -1,0 +1,28 @@
+{
+	"id": "ai-family-api-registration-checkin-referral",
+	"title": "AI-Family API — Pendaftaran Terbuka dan Check-in",
+	"provider": "AI-Family",
+	"description": "AI-Family adalah gateway API berbasis New API. Status publik pada 10 September 2026 menunjukkan pendaftaran akun baru serta registrasi password aktif, verifikasi email diaktifkan, dan fitur check-in tersedia. Situs juga mengumumkan bahwa akun wajib mengaktifkan 2FA. Tautan ini menyertakan kode afiliasi S6g5, tetapi sumber publik tidak menyebut nominal kredit atau bonus referral sehingga tidak diklaim sebagai benefit.",
+	"benefits": [
+		"Pendaftaran akun baru melalui email dan password",
+		"Fitur check-in tersedia di dashboard",
+		"Akses endpoint API utama https://api.aifamily.vip/v1 setelah membuat akun dan API key"
+	],
+	"validity": {
+		"type": "uncertain",
+		"description": "Pendaftaran dan check-in diverifikasi aktif dari endpoint status publik pada 10 September 2026; kuota serta kebijakan dapat berubah"
+	},
+	"requirements": [
+		"Mendaftar dengan email dan password",
+		"Menyelesaikan verifikasi email",
+		"Mengaktifkan 2FA pada pengaturan keamanan akun",
+		"Gunakan tautan referral bila ingin mendukung kontributor"
+	],
+	"ctaLink": "https://api.aifamily.vip/sign-up?aff=S6g5",
+	"tags": ["API", "AI Tools", "Developer Tools", "Free Tier", "Check-in", "Referral"],
+	"status": "active",
+	"featured": false,
+	"publishedAt": "2026-09-10",
+	"source": "https://api.aifamily.vip/api/status",
+	"contributorSlug": "syafii-fahreza"
+}

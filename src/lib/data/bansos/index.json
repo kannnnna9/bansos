@@ -1,7 +1,17 @@
 {
 	"generatedAt": "2026-08-17",
-	"total": 109,
+	"total": 112,
 	"items": [
+		{
+			"id": "1412-api-github-registration",
+			"title": "1412's API — Pendaftaran GitHub Terbuka",
+			"provider": "1412's API",
+			"status": "active",
+			"tags": ["API", "AI Tools", "Developer Tools", "GitHub OAuth", "Referral"],
+			"featured": false,
+			"publishedAt": "2026-09-10",
+			"contributorSlug": "syafii-fahreza"
+		},
 		{
 			"id": "adobe-creative-cloud-pro-trial",
 			"title": "Adobe Creative Cloud Pro Rp0 | Free Trial 4 Month",
@@ -71,6 +81,16 @@
 			"featured": false,
 			"publishedAt": "2026-06-18",
 			"contributorSlug": "hamba-allah"
+		},
+		{
+			"id": "ai-family-api-registration-checkin-referral",
+			"title": "AI-Family API — Pendaftaran Terbuka dan Check-in",
+			"provider": "AI-Family",
+			"status": "active",
+			"tags": ["API", "AI Tools", "Developer Tools", "Free Tier", "Check-in", "Referral"],
+			"featured": false,
+			"publishedAt": "2026-09-10",
+			"contributorSlug": "syafii-fahreza"
 		},
 		{
 			"id": "ai-hub-free-plan",
@@ -599,6 +619,16 @@
 			"featured": false,
 			"publishedAt": "2026-06-12",
 			"contributorSlug": "devers"
+		},
+		{
+			"id": "kira-ai-free-50000-tokens-referral",
+			"title": "Kira AI — 50.000 Token Gratis untuk Anggota Baru",
+			"provider": "Kira AI",
+			"status": "active",
+			"tags": ["AI Credits", "API", "AI Tools", "Free Tier", "Developer Tools", "Referral"],
+			"featured": false,
+			"publishedAt": "2026-09-10",
+			"contributorSlug": "syafii-fahreza"
 		},
 		{
 			"id": "kktoken-free-75-credit-bonus-referral",

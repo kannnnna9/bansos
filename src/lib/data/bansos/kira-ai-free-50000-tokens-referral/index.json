@@ -1,0 +1,27 @@
+{
+	"id": "kira-ai-free-50000-tokens-referral",
+	"title": "Kira AI — 50.000 Token Gratis untuk Anggota Baru",
+	"provider": "Kira AI",
+	"description": "Kira AI menyediakan ekosistem AI dengan chat, pembuatan gambar, suara, video, dan API yang kompatibel dengan SDK OpenAI. Paket uji coba gratisnya tercantum seharga 0đ dan memberi 50.000 token bagi anggota yang baru mendaftar. Tautan ini memuat referral syafiifahrezaid, tetapi situs tidak menyebut bonus atau nominal benefit referral, sehingga tidak dihitung sebagai keuntungan tambahan.",
+	"benefits": [
+		"50.000 token gratis saat mendaftar sebagai anggota baru",
+		"Akses fitur Chat AI, pembuatan gambar, dan suara pada paket uji coba",
+		"Base URL API OpenAI-compatible: https://kiraai.vn/api/v1"
+	],
+	"validity": {
+		"type": "uncertain",
+		"description": "Paket gratis dan alokasi 50.000 token diverifikasi dari halaman resmi pada 10 September 2026; kuota dan ketentuan dapat berubah"
+	},
+	"requirements": [
+		"Membuat akun Kira AI",
+		"Pakai paket uji coba gratis",
+		"Gunakan tautan referral bila ingin mendukung kontributor"
+	],
+	"ctaLink": "https://kiraai.vn/?ref=syafiifahrezaid",
+	"tags": ["AI Credits", "API", "AI Tools", "Free Tier", "Developer Tools", "Referral"],
+	"status": "active",
+	"featured": false,
+	"publishedAt": "2026-09-10",
+	"source": "https://kiraai.vn/",
+	"contributorSlug": "syafii-fahreza"
+}
