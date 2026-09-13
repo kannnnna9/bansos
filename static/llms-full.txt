@@ -1,5 +1,5 @@
 # bansos.dev — Dataset Lengkap
-> Diperbarui: 2026-09-10 | Total: 112 entri (94 aktif, 18 expired)
+> Diperbarui: 2026-09-13 | Total: 113 entri (95 aktif, 18 expired)
 
 ---
 
@@ -570,6 +570,30 @@
 - **Berlaku:** forever (Berlaku untuk semua pengguna yang mendaftar)
 
 🔗 **Link Detail:** https://bansos.dev/list/dahono-labs-ai-api/
+
+---
+
+### Free Trial 3 Bulan DCloud XPlore
+
+- **ID:** `dcloud-xplore-free-trial`
+- **Provider:** DCloud
+- **Kategori:** Cloud Services, Free Trial, Hosting
+- **Status:** active
+
+**Deskripsi:** Solusi cloud lebih maksimal dengan Free Trial 3 bulan dari DCloud. Berlaku untuk seluruh pelanggan (baru & existing) hingga 31 Desember 2026. Penawaran dapat diklaim melalui Sales DCloud.
+
+**Benefit:**
+- Free Trial 3 Bulan semua layanan DCloud (exclude GPU L40S, Domain, & DMail)
+
+**Cara Klaim:**
+1. Klaim melalui Sales DCloud
+2. Pelanggan existing hanya untuk layanan yang belum pernah digunakan
+3. Tanpa Managed Service / Lisensi OS
+
+- **CTA Link:** https://dcloud.co.id/promo-dcloud-xplore-2026.html
+- **Berlaku:** fixed — 2026-12-31
+
+🔗 **Link Detail:** https://bansos.dev/list/dcloud-xplore-free-trial/
 
 ---
 

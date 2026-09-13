@@ -1,6 +1,6 @@
 {
 	"generatedAt": "2026-08-17",
-	"total": 112,
+	"total": 113,
 	"items": [
 		{
 			"id": "1412-api-github-registration",
@@ -251,6 +251,16 @@
 			"featured": false,
 			"publishedAt": "2026-06-13",
 			"contributorSlug": "dahono-labs"
+		},
+		{
+			"id": "dcloud-xplore-free-trial",
+			"title": "Free Trial 3 Bulan DCloud XPlore",
+			"provider": "DCloud",
+			"status": "active",
+			"tags": ["Cloud Services", "Free Trial", "Hosting"],
+			"featured": false,
+			"publishedAt": "2026-09-01",
+			"contributorSlug": "rifaldo-dev"
 		},
 		{
 			"id": "deepseek-free-token",
